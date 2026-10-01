@@ -67,9 +67,6 @@ python Main.py
 
 > **Note:** `ffmpeg` is required for audio conversion (used by `pydub` and `yt-dlp`). Install it separately if it's not already on your system.
 
-## Tech Stack
-
-Python · LangChain · Whisper · Sarvam AI · ChromaDB · HuggingFace Embeddings · Groq · yt-dlp · Streamlit
 
 ## Roadmap
 
